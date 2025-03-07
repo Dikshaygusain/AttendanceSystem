@@ -45,14 +45,12 @@ Pygments==2.18.0
 PyJWT==2.10.1
 PyMsgBox==1.0.9
 pyperclip==1.9.0
-pypiwin32==223
 PyRect==0.2.0
 PyScreeze==1.0.1
 python-dateutil==2.9.0.post0
 pyttsx3==2.98
 pytweening==1.2.0
 pytz==2024.1
-pywin32==308
 referencing==0.35.1
 requests==2.32.3
 rich==13.7.1
