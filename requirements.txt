@@ -9,6 +9,7 @@ click==8.1.7
 colorama==0.4.6
 comtypes==1.4.9
 cryptography==44.0.0
+cmake
 dlib==19.24.2
 et_xmlfile==2.0.0
 face-recognition==1.2.3
